@@ -1,6 +1,11 @@
 
+<<<<<<< HEAD
 new line changed for test2
 new line added for commi
+=======
+new line changed for test conflict
+new line added gto test conflict 3
+>>>>>>> defects1
 added new line to the file to test the push commandt
 testing of git pull error
 one more line add  to test
